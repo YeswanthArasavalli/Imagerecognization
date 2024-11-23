@@ -167,7 +167,6 @@ print("Test Accuracy:", accuracy)
 # prompt: now, we have to deploy above code in streamlit to check various images to get output as it matches our input or not
 
 # Install Streamlit if not already installed
-!pip install streamlit
 
 # Import necessary libraries
 import streamlit as st
